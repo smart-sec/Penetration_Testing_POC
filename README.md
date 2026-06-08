@@ -83,8 +83,10 @@
 - [路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取](./books/路由器dd手动提取固件---迅捷PoEAC路由一体机FR100P-AC固件提取.html)
 - [NX_Firmware：任天堂Switch各版本固件数据库](https://github.com/THZoria/NX_Firmware)
 - [vphone-aio：一键运行已越狱并安装完整bootstrap的iOS虚拟手机(vphone)脚本](https://github.com/34306/vphone-aio)
+- [AssppJailbroken：一款用于解密从 App Store 下载的最新 IPA 文件的工具，并支持在已越狱的 iOS 设备及 iPhone 模拟器上运行](https://github.com/lbr77/AssppJailbroken)
 - [FirmWire：支持三星 Shannon 和 MediaTek 基带固件的全系统动态分析平台，可用于模糊测试、漏洞根因分析与调试](https://github.com/FirmWire/FirmWire)
 - [Podroid：无需 root 即可在 Android 手机上运行 Linux 容器，基于 QEMU 启动 Alpine Linux 虚拟机并提供完整的 Podman 容器运行时](https://github.com/ExTV/Podroid)
+- [PrismSpace：基于 Android 工作资料（managed profile）的应用双开管理器](https://github.com/yzddmr6/PrismSpace)
 - [Tsec-Salon：腾讯安全沙龙历届活动材料](https://github.com/Yeti-791/Tsec-Salon)|[BLACKHAT_Asia2026: Black Hat Asia 2026 议题资料汇总](https://github.com/Mr-xn/BLACKHAT_Asia2026)|[Java Ghost Bits - Black Hat Asia 2026 演讲PDF(幽灵比特位:高位截断)](https://i.blackhat.com/Asia-26/Presentations/Asia-26-Bai-Cast-Attack-Ghost-Bits-4.23.pdf)|[GBitsTools: Ghost Bits攻击工具(Python GUI/CLI)](https://github.com/shiyeshu/GBitsTools)|[GbitsGen: Ghost Bits字符生成工具](https://github.com/qi4L/GbitsGen)|[ghost-bits-lab: Ghost Bits交互式安全实验靶机(Java)](https://github.com/Xc1Ym/ghost-bits-lab)
 
 ## <span id="head4">Web APP</span>
@@ -133,6 +135,7 @@
 - [生成Redis恶意模块so文件配合主从复制RCE达到命令执行](https://github.com/n0b0dyCN/RedisModules-ExecuteCommand)|[相关文章](https://www.freebuf.com/vuls/224235.html)
 - [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
 - [WeblogicScanLot系列，Weblogic漏洞批量检测工具](./WeblogicScanLot)
+- [TongWeb EJB 利用与插件工具](https://github.com/Axyanzzzz/TongWebEJBExploit) | [TongwebPlugin](https://github.com/Gary-yang1/TongwebPlugin)
 - [jboss_CVE-2017-12149](./jboss_CVE-2017-12149)
 - [Wordpress的拒绝服务（DoS）-CVE-2018-6389](./CVE-2018-6389)
 - [Webmin Remote Code Execution (authenticated)-CVE-2019-15642](https://github.com/jas502n/CVE-2019-15642)
@@ -864,7 +867,7 @@
 - [windows 溢出提权小记](https://klionsec.github.io/2017/04/22/win-0day-privilege/)/[本地保存了一份+Linux&Windows提取脑图](./tools/Local%20Privilege%20Escalation.md)
 - [Windows常见持久控制脑图](./tools/Windows常见持久控制.png)
 - [CVE-2019-0803 Win32k漏洞提权工具（Windows 7/8/10, Server 2008/2012/2016/2019）](./CVE-2019-0803)
-- [脏牛Linux提权漏洞（Linux kernel 2.6.22 - 4.8.2）](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)|[linux_dirty：更改后的脏牛提权代码，可以往任意文件写入任意内容，去除交互过程](https://github.com/Rvn0xsy/linux_dirty)|[dirtycow-mem：脏牛利用C源码](https://github.com/sqlnetcat/dirtycow-mem)-[文章](https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)-[备份](https://archive.ph/wip/NCL3w)-[备份1](https://web.archive.org/web/20220918065539/https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)
+- [脏牛Linux提权漏洞（CVE-2016-5195，Linux kernel 2.6.22 - 4.8.2）](https://github.com/Brucetg/DirtyCow-EXP)-[reverse_dirty-更改的脏牛提权代码，可以往任意文件写入任意内容](https://github.com/Rvn0xsy/reverse_dirty)|[linux_dirty：更改后的脏牛提权代码，可以往任意文件写入任意内容，去除交互过程](https://github.com/Rvn0xsy/linux_dirty)|[dirtycow-mem：脏牛利用C源码](https://github.com/sqlnetcat/dirtycow-mem)-[文章](https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)-[备份](https://archive.ph/wip/NCL3w)-[备份1](https://web.archive.org/web/20220918065539/https://mp.weixin.qq.com/s/xUhr6D9mGnrE_cJw1kmyFA)|[CVE-2016-5195：timwr实现的Android版Dirty Cow利用工具](https://github.com/timwr/CVE-2016-5195)
 - [远控免杀从入门到实践之白名单（113个）](https://github.com/TideSec/BypassAntiVirus)|[远控免杀从入门到实践之白名单（113个）总结篇.pdf](./books/远控免杀从入门到实践之白名单（113个）总结篇.pdf)
 - [Linux提权-CVE-2019-13272  A linux kernel Local Root Privilege Escalation vulnerability with PTRACE_TRACEME（Linux kernel < 5.1.17，aarch64架构）](https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2019-13272-aarch64)
 - [Linux权限提升辅助一键检测工具](https://github.com/mzet-/linux-exploit-suggester)
@@ -935,8 +938,10 @@
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
 - [【Windows Defender DOS】UnDefend：无需管理员权限，被动模式下阻止Defender签名更新，激进模式下在Windows平台更新时完全禁用Windows Defender](https://github.com/Nightmare-Eclipse/UnDefend)
 - [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
-- [【Linux提权】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431)
+- [【Linux提权】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431) | [Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
 - [【Linux提权】Dirty Frag：Universal Linux LPE（CVE-2026-43284 / CVE-2026-43500，影响主流 Linux 发行版）](https://github.com/V4bel/dirtyfrag)
+- [【Linux提权】CIFSwitch：利用 cifs.upcall 与 NSS 加载链进行本地提权 PoC](https://github.com/manizada/CIFSwitch)
+- [CACM：一款Linux权限维持+后渗透工具，功能涵盖端口扫描、敏感信息、指纹识别、IP伪装、键盘监控、进程隐藏、edr/av识别、权限维持、docker敏感信息扫描、ssh连接伪装等](https://github.com/RuoJi6/CACM)
 
 ## <span id="head6"> PC</span>
 
@@ -1040,7 +1045,7 @@
 
 - [【Linux提权】CVE-2021-3490：Linux kernel 缓冲区错误漏洞](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)
 
-- [【Linux 提权】CVE-2022-2602: Linux io_uring子系统UAF漏洞漏洞利用POC,可用于本地提权](https://github.com/LukeGix/CVE-2022-2602)
+- [【Linux 提权】CVE-2022-2602: Linux io_uring子系统UAF漏洞漏洞利用POC,可用于本地提权](https://github.com/LukeGix/CVE-2022-2602)|[CVE-2022-2602-Kernel-Exploit：另一个io_uring UAF内核提权利用](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)
 
 - [CVE-2021-34473：Microsoft Exchange Server Remote Code Execution](https://github.com/phamphuqui1998/CVE-2021-34473)|[proxyshell-auto：自动化的ProxyShell漏洞利用](https://github.com/Udyz/proxyshell-auto)
 
@@ -1144,9 +1149,17 @@
 
 - [CVE-2023-27363: Foxit PDF Reader及Editor任意代码执行漏洞](https://github.com/j00sean/SecBugs/tree/main/CVEs/CVE-2023-27363)
 
+- [CVE-2026-34621：Adobe Acrobat Reader 原型污染与JS注入利用链（CVE-2026-34621/34622/34626），可实现沙箱内特权JS执行及本地文件读取外带](https://github.com/azefzafyoussef/CVE-2026-34621)
+
 - [keepass-password-dumper: CVE-2023-32784 KeePass 信息泄露漏洞](https://github.com/vdohney/keepass-password-dumper)
   
 - [百度网盘（7.59.5.104） Windows客户端存在命令注入漏洞](https://mrxn.net/news/baidupan-windows-client-rce.html)
+
+- [【Linux提权】CVE-2026-31431：Copy Fail Linux内核页缓存权限提升漏洞（影响2017年后几乎所有发行版）](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
+
+- [【Linux提权】CVE-2026-43284/CVE-2026-43500：Dirty Frag Linux内核页缓存写漏洞](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)|[dirty-frag-check：漏洞检测工具](https://github.com/haydenjames/dirty-frag-check)
+
+- [【Linux提权】CVE-2026-46300：Fragnesia Linux内核提权漏洞](https://github.com/Sentebale/CVE-2026-46300)|[另一个CVE-2026-46300利用](https://github.com/0xBlackash/CVE-2026-46300)
 
 
 
@@ -1154,7 +1167,9 @@
 ## <span id="head7"> tools-小工具集版本合</span>
 
 - [RAPTOR（递归自主渗透测试与观测机器人）：基于 Claude Code 的自主攻防安全研究框架，可自动完成代码攻击面分析、Semgrep/CodeQL 漏洞扫描、AFL 模糊测试、漏洞分析与 PoC 生成、自动补丁修复及结构化报告输出的全流程渗透测试](https://github.com/gadievron/raptor)
+- [LuaN1aoAgent（鸾鸟Agent）：大模型驱动、认知驱动的 AI 渗透测试智能体（AI Hacker），具备自主规划、工具编排和因果推理能力，采用 P-E-R（Planner-Executor-Reflector）协同框架和双图推理架构](https://github.com/SanMuzZzZz/LuaN1aoAgent)
 - [Pentest-Swarm-AI：基于多智能体协作的自动化渗透测试框架](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+- [BreachWeave：基于多智能体（Manager/Solver/Observer）协同架构的智能化渗透测试与漏洞挖掘平台](https://github.com/m-sec-org/BreachWeave)
 - [anything-analyzer：全场景抓包 + AI 自动分析工具，支持网页/桌面应用/终端/脚本/手机/IoT 等所有来源流量统一汇入同一 Session，一键生成协议逆向/安全审计/JS 加密逆向报告，并内置 MCP Server 可被 Claude Desktop、Cursor 等直接调用](https://github.com/Mouseww/anything-analyzer)
 - [nano-analyzer：基于 LLM 的轻量级零日漏洞扫描器，通过三阶段 AI 流水线（上下文生成→漏洞扫描→怀疑性分类）对源代码进行安全审计](https://github.com/weareaisle/nano-analyzer)
 - [Payloader：中英双语的交互式安全载荷参考平台，涵盖 Web 应用安全与内网渗透，包含 300+ 条精心编排的攻防载荷、攻击链可视化、工具命令集（Nmap/SQLMap/Burp/Metasploit）和编解码工具](https://github.com/3516634930/Payloader)
@@ -1930,6 +1945,7 @@
 - [python-shellcode-loader：python免杀shellcode加载器 加密混淆](https://github.com/HZzz2/python-shellcode-loader)
 - [go-shellcode-loader：GO免杀shellcode加载器混淆AES加密](https://github.com/HZzz2/go-shellcode-loader)
 - [ThinkphpGUI：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell和日志泄露检查](https://github.com/Lotus6/ThinkphpGUI)
+- [ThinkPHPGUI：使用JavaFX编写的ThinkPHP的GUI漏洞检测利用工具](https://github.com/AgonySec/ThinkPHPGUI)
 - [webprobe：一款快速探测web存活并获取title的工具](https://github.com/damit5/webprobe)
 - [CHAOS：开源远控管理工具](https://github.com/tiagorlampert/CHAOS)
 - [gitdorks_go：一款在github上发现敏感信息的自动化收集工具](https://github.com/damit5/gitdorks_go)
@@ -1985,6 +2001,7 @@
 - [bypassuac](https://github.com/liuxigu/bypassuac)
 - [ActuatorExploit：SpringBoot Actuator未授权自动化利用，支持信息泄漏/RCE](https://github.com/LFYSec/ActuatorExploit)
 - [SharpMapExec：CrackMapExec的C#实现版本](https://github.com/cube0x0/SharpMapExec)|[CrackMapExec：一款针对大型Windows活动目录(AD)的后渗透工具](https://github.com/byt3bl33d3r/CrackMapExec)
+- [adscan：一款专为 Linux 设计的 Active Directory (AD) 自动化内网渗透与攻击路径映射工具，支持全自动化 AD 枚举、Kerberoasting/AS-REP Roasting、ADCS 漏洞利用等多阶段攻击工作流](https://github.com/ADScanPro/adscan)
 - [MiniDump：用C# 实现的dump lsass 进程工具](https://github.com/cube0x0/MiniDump)
 - [KrbRelay：Kerberos中继框架](https://github.com/cube0x0/KrbRelay)
 - [CurveBall：CVE-2020-0601 ECC证书欺骗漏洞利用工具](https://github.com/ly4k/CurveBall)
@@ -2300,6 +2317,7 @@
 - [IDOR_detect_tool：一款API水平越权漏洞检测工具](https://github.com/y1nglamore/IDOR_detect_tool)
 - [URLFinder：类似JSFinder的golang实现，一款用于快速提取检测页面中JS与URL的工具，更快更全更舒服](https://github.com/pingc0y/URLFinder)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
+- [zenproxy：代理池管理与转发服务，支持代理订阅管理、质量检测与多IP并发出口](https://github.com/streetartist/zenproxy)
 - [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
 - [NucleiTP：自动整合全网Nuclei的漏洞POC，实时同步更新最新POC](https://github.com/ExpLangcn/NucleiTP)
 - [Amsi-Killer：Lifetime AMSI bypass-终极AMSI bypass](https://github.com/ZeroMemoryEx/Amsi-Killer)
@@ -2390,6 +2408,7 @@
 - [WIKI-POC: 漏洞库【OA以及各种web APP漏洞】](https://github.com/7estUser/WIKI-POC)
 - [FineReportExploit: 基于go语言的帆软报表漏洞检测工具](https://github.com/Drac0nids/FineReportExploit)
 - [SSRFmap: 自动化SSRF漏洞探测](https://github.com/swisskyrepo/SSRFmap)
+- [nextssrf：CVE-2026-44578 Next.js WebSocket Upgrade Handler SSRF 扫描与利用工具，支持AWS/Azure/GCP云凭据提取、批量扫描及交互式利用Shell](https://github.com/ynsmroztas/nextssrf)
 - [qq-tim-elevation: 腾讯 QQ/TIM本地提权漏洞](https://github.com/vi3t1/qq-tim-elevation)
 - [VolatilityPro: 一款用于自动化处理内存取证的Python脚本，并提供GUI界面](https://github.com/Tokeii0/VolatilityPro)
 - [NimExec: 在Nim中执行横向移动的无文件命令](https://github.com/frkngksl/NimExec)
@@ -2410,6 +2429,7 @@
 - [trajan：CI/CD流水线安全漏洞扫描工具，支持GitHub Actions、GitLab CI、Azure DevOps、Jenkins和JFrog，用于检测软件供应链攻击](https://github.com/praetorian-inc/trajan)
 - [clawgod: Claude Code的"上帝模式"补丁工具，解锁隐藏功能、移除安全限制（含渗透测试/C2/漏洞利用限制），一键安装，无需编译](https://github.com/0Chencc/clawgod)
 - [kslkatz_bof：通过 Cobalt Strike BOF 实现 Mimikatz 功能](https://github.com/Muz1K1zuM/kslkatz_bof)
+- [HTTP-2-Bomb-Nginx：Nginx HTTP/2 拒绝服务漏洞远程利用工具 (Remote DoS Exploit)](https://github.com/Mr-xn/HTTP-2-Bomb-Nginx) | [相关文献](https://github.com/califio/publications/tree/main/MADBugs/http2-bomb) | [相关文章](https://cybersecuritynews.com/http-2-bomb-remote-dos-exploit/)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
