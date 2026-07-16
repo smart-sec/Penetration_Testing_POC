@@ -871,6 +871,7 @@
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/secret/edit SQL注入漏洞](https://mrxn.net/jswz/bigant-admin-secret-edit-sqli.html)
 - [大蚂蚁 (BigAnt) 即时通讯系统 admin/Upload/upload 文件上传漏洞](https://mrxn.net/jswz/bigant-admin-Upload-upload-rce.html)
 - [LiteLLM v1.84.0 安全漏洞完整分析报告](https://mrxn.net/jswz/LiteLLM_v1840_security_analysis.html)
+- [用友U8Cloud XChangeServlet SQL注入漏洞+XXE漏洞](https://mrxn.net/jswz/yonyou-u8c-XChangeServlet-xxe-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
