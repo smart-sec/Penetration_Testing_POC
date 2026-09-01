@@ -881,6 +881,7 @@
 - [森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)](https://mrxn.net/jswz/1491.html)
 - [森鑫炬水务企业综合运营平台代码审计(文件读取漏洞+文件上传漏洞+权限绕过漏洞+信息泄漏漏洞)](https://mrxn.net/jswz/sntsmart-file-upload-rce.html)
 - [JimuReport积木报表/jmreport/auto/export接口未授权导出与表达式注入RCE漏洞](https://mrxn.net/jswz/jimureport-v2-5-0-autoexport-unauth-export-aviator-rce.html)
+- [JimuReport积木报表最新版v2.5.1 download/image 接口签名伪造未认证SSRF漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-download-image-ssrf.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
