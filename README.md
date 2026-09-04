@@ -889,6 +889,7 @@
 - [JimuReport积木报表最新版v2.5.1 auto/export/python/plugin 接口硬编码签名密钥绕过未认证导出漏洞](https://mrxn.net/jswz/jimureport-v2-5-1-python-plugin-sign-bypass.html)
 - [浪潮CRM(医疗行业版)ConNetHelp.ashx SQL注入漏洞挖掘和分析](https://mrxn.net/jswz/Genersoft-Login-ConNetHelp-conditiondefine-ConNetHelp-sqli.html)
 - [明天医网科技 医技信息集成平台 DocumentService DocumentByPath 任意文件读取漏洞](https://mrxn.net/jswz/tomtaw-DocumentService-Download-DocumentByPath-path-file-read.html)
+- [ShowDoc  ≤ v3.9.2 registerByVerify 未授权PHP代码注入致远程代码执行漏洞](https://mrxn.net/jswz/ShowDoc-registerByVerify-username-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
