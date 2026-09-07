@@ -892,6 +892,7 @@
 - [ShowDoc  ≤ v3.9.2 registerByVerify 未授权PHP代码注入致远程代码执行漏洞](https://mrxn.net/jswz/ShowDoc-registerByVerify-username-rce.html)
 - [mihomo系客户端内置Sub-Store v2.11.4-2.37.1 38324端口未鉴权ScriptOperator RCE漏洞](https://mrxn.net/jswz/sub-store-38324-unauth-rce.html)
 - [ShowDoc系统最新版v3.9.3template_save接口内容注入绕过修复RCE漏洞](https://mrxn.net/jswz/showdoc-template-save-content-injection-fix-bypass-rce.html)
+- [CRMEB系统最新版v6.0.0 update_mark接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
