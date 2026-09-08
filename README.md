@@ -894,6 +894,7 @@
 - [ShowDoc系统最新版v3.9.3template_save接口内容注入绕过修复RCE漏洞](https://mrxn.net/jswz/showdoc-template-save-content-injection-fix-bypass-rce.html)
 - [CRMEB系统最新版v6.0.0 update_mark接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v4-update-mark-sqli.html)
 - [脸爱云 getMKh.ashx 存在未授权访问漏洞](https://mrxn.net/jswz/getMKh-unauth-data-leak.html)
+- [CRMEB系统最新版v6.0.0 backup_read接口SQL注入漏洞](https://mrxn.net/jswz/crmeb-v2-backup-read-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
