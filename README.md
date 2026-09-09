@@ -898,6 +898,7 @@
 - [友加畅捷管理系统 UploadFormImg.ashx文件上传漏洞（CVE-2026-86272）](https://mrxn.net/jswz/youjia-uploadformimg-uploadimgfile-rce.html)
 - [U8cloud所有版本CodeSyncServlet接口存在任意文件下载漏洞](https://mrxn.net/jswz/u8c-CodeSyncServlet-file-read.html)
 - [孚盟云CRM ReceivableList.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Receivables-ReceivableList-sqli.html)
+- [索贝融媒体 getOmnfig 接口配置信息泄露漏洞](https://mrxn.net/jswz/sobey-mch-getomnfig-config-leak.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
