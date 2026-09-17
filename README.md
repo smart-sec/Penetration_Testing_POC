@@ -902,6 +902,7 @@
 - [索贝融媒体 TestController接口readAndinterpret表达式注入未认证RCE与SSRF漏洞](https://mrxn.net/jswz/sobey-mcheditor-testcontroller-readandinterpret-expression-injection-rce.html)
 - [索贝融媒体 /mch/lzy/getArticleList 信息泄露漏洞](https://mrxn.net/jswz/sobey-lzy-getArticleList-user-leak.html)
 - [索贝融媒体系统callback接口任意文件写入致远程代码执行漏洞](https://mrxn.net/jswz/sobey-mcheditor-energy-callback-arbitrary-file-write-rce.html)
+- [索贝融媒体 TestController接口reUploadBase64 SQL注入漏洞](https://mrxn.net/jswz/sobey-mcheditor-testcontroller-reuploadbase64-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
