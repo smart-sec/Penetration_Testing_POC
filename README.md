@@ -911,6 +911,7 @@
 - [CRMEB系统最新版v6.0.0theme_import接口zip解压RCE漏洞](https://mrxn.net/jswz/crmeb-adminapi-theme-import-zip-rce.html)
 - [CRMEB系统最新版v6.0.0save_basics接口任意文件读取漏洞](https://mrxn.net/jswz/crmeb-adminapi-agent-config-save_basics-arbitrary-file-read.html)
 - [CRMEB系统最新版v6.0.0 RoutineCI_preview方法命令注入漏洞](https://mrxn.net/jswz/crmeb-adminapi-routineci-preview-rce.html)
+- [CRMEB系统最新版v6.0.0 JWT默认密钥认证绕过RCE漏洞](https://mrxn.net/jswz/crmeb-jwt-default-key-auth-bypass-rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
