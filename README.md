@@ -914,6 +914,8 @@
 - [CRMEB系统最新版v6.0.0 JWT默认密钥认证绕过RCE漏洞](https://mrxn.net/jswz/crmeb-jwt-default-key-auth-bypass-rce.html)
 - [PowerJob最新版v5.1.2 friend-process接口未授权远程代码执行漏洞（CVE-2026-75429）](https://mrxn.net/jswz/powerjob-friend-process-rce.html)
 - [用友U8+ EIS服务 APIProxyHandler(proxy) 未授权SSRF漏洞](https://mrxn.net/jswz/yonyou-APIProxyHandler-ssrf.html)
+- [用友U8+ U8AuditWebSite U8Interface 未授权云同步信息泄露及会话管理缺陷漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-U8Interface-data-leak.html)
+- [用友U8+ EIS U8DuDuService.asmx 任意SQL执行致命令执行漏洞](https://mrxn.net/jswz/U8-EIS-U8DuDuService-sql2rce.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
